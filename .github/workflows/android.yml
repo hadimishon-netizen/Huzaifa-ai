@@ -1,4 +1,4 @@
-name: HUZAIFA AI APK Builder
+HUZAIFA AI APK Builder
 
 on:
   workflow_dispatch:
